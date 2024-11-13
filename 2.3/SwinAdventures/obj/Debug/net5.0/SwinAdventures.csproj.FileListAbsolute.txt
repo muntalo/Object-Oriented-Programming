@@ -1,0 +1,16 @@
+C:\Users\Munty\Documents\OOP\SwinAdventures\bin\Debug\net5.0\SwinAdventures.exe
+C:\Users\Munty\Documents\OOP\SwinAdventures\bin\Debug\net5.0\SwinAdventures.deps.json
+C:\Users\Munty\Documents\OOP\SwinAdventures\bin\Debug\net5.0\SwinAdventures.runtimeconfig.json
+C:\Users\Munty\Documents\OOP\SwinAdventures\bin\Debug\net5.0\SwinAdventures.runtimeconfig.dev.json
+C:\Users\Munty\Documents\OOP\SwinAdventures\bin\Debug\net5.0\SwinAdventures.dll
+C:\Users\Munty\Documents\OOP\SwinAdventures\bin\Debug\net5.0\ref\SwinAdventures.dll
+C:\Users\Munty\Documents\OOP\SwinAdventures\bin\Debug\net5.0\SwinAdventures.pdb
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\SwinAdventures.csproj.AssemblyReference.cache
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\SwinAdventures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\SwinAdventures.AssemblyInfoInputs.cache
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\SwinAdventures.AssemblyInfo.cs
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\SwinAdventures.csproj.CoreCompileInputs.cache
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\SwinAdventures.dll
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\ref\SwinAdventures.dll
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\SwinAdventures.pdb
+C:\Users\Munty\Documents\OOP\SwinAdventures\obj\Debug\net5.0\SwinAdventures.genruntimeconfig.cache

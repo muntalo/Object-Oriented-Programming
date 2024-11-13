@@ -1,0 +1,16 @@
+C:\Users\Munty\source\repos\CounterTest\bin\Debug\net5.0\CounterTest.exe
+C:\Users\Munty\source\repos\CounterTest\bin\Debug\net5.0\CounterTest.deps.json
+C:\Users\Munty\source\repos\CounterTest\bin\Debug\net5.0\CounterTest.runtimeconfig.json
+C:\Users\Munty\source\repos\CounterTest\bin\Debug\net5.0\CounterTest.runtimeconfig.dev.json
+C:\Users\Munty\source\repos\CounterTest\bin\Debug\net5.0\CounterTest.dll
+C:\Users\Munty\source\repos\CounterTest\bin\Debug\net5.0\ref\CounterTest.dll
+C:\Users\Munty\source\repos\CounterTest\bin\Debug\net5.0\CounterTest.pdb
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\CounterTest.csproj.AssemblyReference.cache
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\CounterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\CounterTest.AssemblyInfoInputs.cache
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\CounterTest.AssemblyInfo.cs
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\CounterTest.csproj.CoreCompileInputs.cache
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\CounterTest.dll
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\ref\CounterTest.dll
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\CounterTest.pdb
+C:\Users\Munty\source\repos\CounterTest\obj\Debug\net5.0\CounterTest.genruntimeconfig.cache
